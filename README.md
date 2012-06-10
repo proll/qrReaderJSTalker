@@ -21,7 +21,7 @@ txt может быть
 ## Пример вставки на страницу 
 Пример написан в bin/index.html , там используеться swfobject.js для этого<br/>
 Можно вставить просто html тэгом если не расчитываем на старые версии ie<br/>
-`
+```html
 <object type='application/x-shockwave-flash' data='bin/qrReaderJSTalker.swf' width='320' height='240'>
 	<param name='allowScriptAccess' value='always' />
 	<param name='movie' value='bin/qrReaderJSTalker.swf' />
@@ -29,4 +29,4 @@ txt может быть
 	<param name='menu' value='false'>
 	<param name='scale' value='noScale'>
 </object>
-`
+```
