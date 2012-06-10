@@ -1,4 +1,4 @@
-﻿Проект основан на http://www.libspark.org/wiki/QRCodeReader/en
+Проект основан на http://www.libspark.org/wiki/QRCodeReader/en
 ﻿
 # Описание
 ## Как работает
