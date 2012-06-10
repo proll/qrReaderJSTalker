@@ -21,8 +21,8 @@
 ## Пример вставки на страницу 
 Тот самый swf - bin/qrReaderJSTalker.swf<br/>
 Пример вставки написан в bin/index.html, там используется swfobject.js для этого<br/>
-Можно вставить просто html тэгом если не расчитываем на старые версии ie (как обычную swf).
-**Пример:**<br/>
+Можно вставить просто html тэгом если не расчитываем на старые версии ie (как обычную swf).<br/>
+**Пример:**
 ```html
 <object type='application/x-shockwave-flash' data='bin/qrReaderJSTalker.swf' width='320' height='240'>
 	<param name='allowScriptAccess' value='always' />
