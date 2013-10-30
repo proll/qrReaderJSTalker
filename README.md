@@ -1,4 +1,4 @@
-Пример [http://prolll.com/qrReaderJSTalker/bin/](http://prolll.com/qrReaderJSTalker/bin/)
+Пример [http://prolll.com/pr/qrReaderJSTalker/bin/](http://prolll.com/qrReaderJSTalker/bin/)
 
 Project is based on http://www.libspark.org/wiki/QRCodeReader/en
 # How it works?
