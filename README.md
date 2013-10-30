@@ -11,7 +11,7 @@ On result is calls onpage **function js responseFromQRReader (state)**<br/>
 
 # QR codes
 To detect QR you have to show it to your camera (for better recognition please set it to the square on the screen)<br/>
-It is better if QR codes had big margin and not a small percent of errors in the QR coded algorithmbr/>
+It is better if QR codes had big margin and not a small percent of errors in the QR coded algorithm<br/>
 **Example of a good QR:**<br/>
 [https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=Hello%20world&choe=UTF-8&chld=H](https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=Hello%20world&choe=UTF-8&chld=H)<br/>
 Here error_correction_level = H = 30% and margin = 4 rows (by default google api)<br/>
