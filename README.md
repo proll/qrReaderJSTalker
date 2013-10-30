@@ -1,6 +1,6 @@
 Пример [http://prolll.com/qrReaderJSTalker/bin/](http://prolll.com/qrReaderJSTalker/bin/)
 
-Project based on http://www.libspark.org/wiki/QRCodeReader/en
+Project is based on http://www.libspark.org/wiki/QRCodeReader/en
 # How it works?
 SWF is calling a camera, trying to find QR code and then trying to decode it<br/>
 On result is calls onpage **function js responseFromQRReader (state)**<br/>
